@@ -1,0 +1,30 @@
+﻿body {
+  background-color: #f1f1f1;
+}
+h1 {
+  color: #054A91;
+}
+h2 {
+    color: #3E7CB1;
+    font-size: 25px;
+}
+p {
+  color: #F17300;
+    line-height: 1.75;
+    font-size: 18px;
+    width: 50%;
+}
+a:link {
+    text-decoration: none;
+    list-style-type: none;
+    color: darkgray;
+}
+a:visited {
+    text-decoration: none;
+    list-style-type: none;
+    color: darkgray;
+}
+a:active {
+    text-decoration: underline;
+    list-style-type: none;
+}
